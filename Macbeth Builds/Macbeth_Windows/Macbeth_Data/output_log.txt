@@ -1,0 +1,79 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 750 (ID=0x1381)
+    Vendor:   NVIDIA
+    VRAM:     2017 MB
+    Driver:   23.21.13.8813
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Jackson\Documents\Unity Projects\Macbeth\Macbeth Builds\Macbeth_Windows\Macbeth_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Jackson\Documents\Unity Projects\Macbeth\Macbeth Builds\Macbeth_Windows\Macbeth_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Jackson\Documents\Unity Projects\Macbeth\Macbeth Builds\Macbeth_Windows\Macbeth_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Jackson\Documents\Unity Projects\Macbeth\Macbeth Builds\Macbeth_Windows\Macbeth_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Jackson\Documents\Unity Projects\Macbeth\Macbeth Builds\Macbeth_Windows\Macbeth_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Jackson\Documents\Unity Projects\Macbeth\Macbeth Builds\Macbeth_Windows\Macbeth_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Jackson\Documents\Unity Projects\Macbeth\Macbeth Builds\Macbeth_Windows\Macbeth_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Jackson\Documents\Unity Projects\Macbeth\Macbeth Builds\Macbeth_Windows\Macbeth_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Jackson\Documents\Unity Projects\Macbeth\Macbeth Builds\Macbeth_Windows\Macbeth_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Jackson\Documents\Unity Projects\Macbeth\Macbeth Builds\Macbeth_Windows\Macbeth_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Jackson\Documents\Unity Projects\Macbeth\Macbeth Builds\Macbeth_Windows\Macbeth_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Jackson\Documents\Unity Projects\Macbeth\Macbeth Builds\Macbeth_Windows\Macbeth_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Jackson\Documents\Unity Projects\Macbeth\Macbeth Builds\Macbeth_Windows\Macbeth_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Jackson\Documents\Unity Projects\Macbeth\Macbeth Builds\Macbeth_Windows\Macbeth_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  3.980 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 144.838873 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3e9c -> priority: 1 
+  Thread -> id: 43c4 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.743077 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 311.
+Total: 0.444646 ms (FindLiveObjects: 0.046541 ms CreateObjectMapping: 0.026773 ms MarkObjects: 0.345808 ms  DeleteObjects: 0.023771 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.405861 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 638.
+Total: 0.486934 ms (FindLiveObjects: 0.052797 ms CreateObjectMapping: 0.014512 ms MarkObjects: 0.408113 ms  DeleteObjects: 0.010259 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.627059 ms
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 0.441643 ms (FindLiveObjects: 0.032028 ms CreateObjectMapping: 0.015013 ms MarkObjects: 0.206434 ms  DeleteObjects: 0.187166 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.587523 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 320.
+Total: 0.281250 ms (FindLiveObjects: 0.035031 ms CreateObjectMapping: 0.014763 ms MarkObjects: 0.212689 ms  DeleteObjects: 0.017015 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.453654 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 643.
+Total: 0.506701 ms (FindLiveObjects: 0.056300 ms CreateObjectMapping: 0.016764 ms MarkObjects: 0.421625 ms  DeleteObjects: 0.011009 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.992134 ms
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 325.
+Total: 0.703126 ms (FindLiveObjects: 0.045040 ms CreateObjectMapping: 0.027024 ms MarkObjects: 0.327041 ms  DeleteObjects: 0.302769 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.418623 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 325.
+Total: 0.259231 ms (FindLiveObjects: 0.032278 ms CreateObjectMapping: 0.013762 ms MarkObjects: 0.196675 ms  DeleteObjects: 0.015764 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.352314 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 648.
+Total: 0.564253 ms (FindLiveObjects: 0.060053 ms CreateObjectMapping: 0.016014 ms MarkObjects: 0.475674 ms  DeleteObjects: 0.011510 ms)
+
